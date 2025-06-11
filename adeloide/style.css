@@ -1,0 +1,53 @@
+.container1 img {
+ display: inline-block;
+ width: 30%;
+}
+.text {
+    display: inline-block;
+    width: 40%;
+}
+.container1 {
+    background-color: rgb(222, 209, 198);
+}
+.gallery {
+   background-color: rgb(222, 209, 198); 
+   height: 400px;
+}
+.gallery img {
+      margin: 10px;
+    padding: 10px;
+  width: 200px;
+  height: 200px;
+}
+.gallery2 img {
+      margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+.nav {
+    position: absolute;
+    left: 1200px;
+    background-color: white;
+    width: 100%;
+}
+.galllery1 img {
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+
+}
+.text2 {
+    background-color: brown;
+}
+.p1 {
+    color: white;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+}
+.p2 {
+    color: white;
+    display: inline-block;
+    margin: 0px 0px 0px 900px;
+}
