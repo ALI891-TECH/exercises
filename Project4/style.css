@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+}
+header {
+background-color: black;
+position: fixed;
+width: 100%;
+height: 25px;
+}
+.CAFE {
+    background-image: url("https://img.freepik.com/free-photo/interior-shot-of-a-cafe-with-chairs-near-the-bar-with-wooden-tables_181624-1669.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    padding-top: 200px;
+}
+
+.CAFE h1 {
+    font-size: 70px;
+}
+.CAFE2 {
+     background-color: black;
+    color: white;
+    font-size: 26px;
+    padding: 4px 8px;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+.CAFE3 {
+     width: 60%;
+     height: 60%;
+}
+.CAFE4 {
+    background-color: black;
+   color: white;
+   font-size: 26px;
+   padding: 4px 8px;
+}
+.CAFE5 {
+    width: 60%;
+    height: 60%;
+}
+.CAFE6  {
+    width: 20%;
+    height: 20%;
+}
+.CAFE7 {
+    background-color: black;
+   color: white;
+   font-size: 26px;
+   padding: 4px 8px;
+}
+.CAFE8 {
+    width: 20%;
+    height: 20%;
+}
+.CAFE9 {
+    width: 100%;
+    height: 100%;
+}
+.CAFE10 {
+    width: 60%;
+    height: 60%;
+}
+.CAFE11 {
+    width: 900px;
+    height: 50px;
+}
+.CAFE12 {
+    width: 900px;
+    height: 50px;
+}
+.CAFE13 {
+    width: 900px;
+    height: 50px;
+}
